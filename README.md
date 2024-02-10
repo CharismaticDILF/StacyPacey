@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @StacyPacey
+- 👋 Hi, I’m @CharismaticDILF
 - 👀 I’m interested in Physics and cs
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript
+- 🌱 I’m currently learning C#
 
 
